@@ -14,17 +14,17 @@
 
 .header {
   grid-area: head;
-  background-color: green;
+  background-color: rgb(109, 242, 65);
 }
 
 .nav {
   grid-area: nav;
-  background-color: blue;
+  background-color: rgb(109, 242, 65);
 }
 
 .profile {
   grid-area: cont;
-  background-color: red;
+  background-color: rgb(181, 184, 181);
 }
 .content_img_main{
   width: 100%;
