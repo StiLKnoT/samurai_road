@@ -1,0 +1,9 @@
+.ul_list{
+    color: #000;
+}
+.li a{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+
+}

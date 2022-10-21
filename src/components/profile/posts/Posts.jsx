@@ -6,8 +6,8 @@ const Post = (props) => {
 return(
 
     <div>
-        <h2>{props.postText}</h2>
-        <span>{props.named}</span>
+        <span>{props.postText}</span>        <span>{props.named}</span>
+
     </div>
 )}
 export default Post

@@ -1,0 +1,17 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: #faeded;
+}
+.dialogs_chat .active {
+    color: red ;
+}
+li{
+    list-style: none;
+}
+/* .dialogs_chat_user {
+
+}
+.dialogs_message_user{
+
+} */

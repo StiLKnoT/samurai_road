@@ -21,6 +21,9 @@
   grid-area: nav;
   background-color: rgb(109, 242, 65);
 }
+.nav ul li a.active {
+  color: red !important;
+}
 
 .profile {
   grid-area: cont;
